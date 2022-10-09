@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-online-library/static/css/main.5a7c3a29.css",
+    "main.js": "/react-online-library/static/js/main.c605b293.js",
+    "index.html": "/react-online-library/index.html",
+    "main.5a7c3a29.css.map": "/react-online-library/static/css/main.5a7c3a29.css.map",
+    "main.c605b293.js.map": "/react-online-library/static/js/main.c605b293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7c3a29.css",
+    "static/js/main.c605b293.js"
+  ]
+}
