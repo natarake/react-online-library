@@ -44,7 +44,7 @@ function App() {
       <div className="search">
         <input
           type="text"
-          placeholder="Type here to search for books..."
+          placeholder="Type here to search for books then click search icon..."
           onChange={handleChange}
         />
         <SearchIcon className="searchIcon" onClick={handleKeyPress} />
